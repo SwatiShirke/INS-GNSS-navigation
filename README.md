@@ -1,2 +1,1 @@
-# Kalman_filter
-This repository holds code for robot state estimation using Kalman filter.
+Pose estimation for Aerial Vehicle using INS/GNSS integration using UKF.
